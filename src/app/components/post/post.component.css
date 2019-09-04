@@ -1,0 +1,9 @@
+.post-block-content:hover{
+    border-color:#d2b356;
+}
+.primary-color, .featured .post{
+    background-color: #d2b356
+}
+.primary-color, .primary-color .section-title, .primary-color .section-subtitle, .featured .post{
+    color: #ffffff
+}
